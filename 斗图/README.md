@@ -1,4 +1,4 @@
-[点击安装 斗图.js](https://raw.githubusercontent.com/CodedArtist/JSBox/master/%E6%96%97%E5%9B%BE/%E6%96%97%E5%9B%BE.js)
+[点击安装 斗图.js](https://xteko.com/redir?url=https://raw.githubusercontent.com/CodedArtist/JSBox/master/%E6%96%97%E5%9B%BE/%E6%96%97%E5%9B%BE.js)
 
 # 脚本功能
 获取当前输入框中的文字，在线获取相关的表情包，点击其中一张图片即可直接发送到 微信|QQ|TIM；  
